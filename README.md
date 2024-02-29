@@ -22,3 +22,9 @@
 1. [Best practices](https://www.analyticsmania.com/post/facebook-pixel-with-google-tag-manager/#send-data-to-multiple-pixels)
 2. [Advanced Matching](https://developers.facebook.com/docs/meta-pixel/advanced/advanced-matching)
 ---
+## Cookies
+### Google Privacy Sandbox
+
+1. [Sandbox home](https://developers.google.com/privacy-sandbox)
+2. [1% third-party cookie deprecation](https://developers.google.com/privacy-sandbox/blog/cookie-countdown-2023oct)
+3. [Privacy Sandbox Analysis Tool (PSAT)](https://developers.google.com/privacy-sandbox/blog/psat-announcement)
