@@ -9,6 +9,7 @@
 
 ### Useful resources
 1. [UTM builder](https://ga-dev-tools.google/ga4/campaign-url-builder/)
+2. [Recommended events](https://developers.google.com/analytics/devguides/collection/ga4/reference/events)
 
 ### E-commerce
 
