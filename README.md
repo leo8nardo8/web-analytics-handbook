@@ -32,6 +32,9 @@
 
 1. [Best practices](https://www.analyticsmania.com/post/facebook-pixel-with-google-tag-manager/#send-data-to-multiple-pixels)
 2. [Advanced Matching](https://developers.facebook.com/docs/meta-pixel/advanced/advanced-matching)
+
+### Lead Ads
+1. [Lead Ads Testing Tool](https://developers.facebook.com/tools/lead-ads-testing/)
 ---
 ## Mixpanel
 
