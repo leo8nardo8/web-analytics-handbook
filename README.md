@@ -8,8 +8,16 @@
 </p>
 
 ### Useful resources
-1. [UTM builder](https://ga-dev-tools.google/ga4/campaign-url-builder/)
-2. [Recommended events](https://developers.google.com/analytics/devguides/collection/ga4/reference/events)
+> [!TIP]
+> Collection of useful resources with general use while implementing and using GA4.
+
+1. [UTM builder for links](https://ga-dev-tools.google/ga4/campaign-url-builder/)
+  > Google official _tool_ for creating UTMs parameters for URLs, it's important to explain the logic behind, but you can also have your own spreadsheet.
+3. [Recommended events for GA4](https://developers.google.com/analytics/devguides/collection/ga4/reference/events)
+  > Core documentation that explains the standard events. It's a good practice to respect this convection and try to apply business logics to adapt to these events.
+  > But, of course, you can have custom events too. Nonetheless, it's highly recommended to start with the standard events first.
+3. [GA4 demo account](https://support.google.com/analytics/answer/6367342)
+  > Useful for public dashboard example creation and basic data exploration for newcomers to web analytics universe.1
 
 ### E-commerce
 
