@@ -1,4 +1,7 @@
-# Web Analytics Handbook
+# Web Analytics Handbook.
+ This is an ongoing project for documentation about web analytics tools and references. 
+ The final objective is to have a quick references repository for general to specific consults.
+
 ---
 
 ## Google Analytics 4 (GA4)
