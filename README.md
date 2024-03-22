@@ -25,6 +25,7 @@
 ### E-commerce
 
 1. [E-commerce guide](https://www.simoahava.com/analytics/google-analytics-4-ecommerce-guide-google-tag-manager/#item-scoped-custom-dimensions)
+  > Guide created by Simo that's ilustrate with examples how to manage several e-commerce implementations.
 
 ### Measure protocol (MP)
 
