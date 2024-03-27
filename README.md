@@ -10,6 +10,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/GAnalytics.svg" width="200" title="ga4 logo" alt="ga4 logo">
 </p>
 
+
 ### Useful resources
 > [!TIP]
 > Collection of useful resources with general use while implementing and using GA4.
@@ -21,6 +22,19 @@
   > But, of course, you can have custom events too. Nonetheless, it's highly recommended to start with the standard events first.
 3. [GA4 demo account](https://support.google.com/analytics/answer/6367342)
   > Useful for public dashboard example creation and basic data exploration for newcomers to web analytics universe.1
+
+---
+
+### Core concepts
+> [!TIP]
+> Main concepts of ga4 that are important to be aware of.
+
+1. [Data sampling](https://support.google.com/analytics/answer/13331292?hl=en)
+ > Your report can be reporting basis in partial data, the free account quota limit is 10 million events.
+ > 
+ > ![sampling](info/images/ga4/sampling.png)
+ >
+ > An example of a report with sampling, note that in GA4 paid account you can choose to have unsampled data.
 
 ### E-commerce
 
