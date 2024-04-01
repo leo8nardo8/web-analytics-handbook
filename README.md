@@ -7,7 +7,7 @@
 ## Google Analytics 4 (GA4)
 
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/GAnalytics.svg" width="200" title="ga4 logo" alt="ga4 logo">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/GAnalytics.svg" width="100" title="ga4 logo" alt="ga4 logo">
 </p>
 
 
@@ -47,6 +47,19 @@
 2. [Events and event parameters](https://developers.google.com/analytics/devguides/collection/protocol/ga4/reference/events)
 3. [Event builder](https://ga-dev-tools.google/ga4/event-builder/)
 4. [Debugging MP](https://www.analyticsmania.com/post/not-set-in-google-analytics-4/)
+---
+## Google Ads
+
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Ads_logo.svg/200px-Google_Ads_logo.svg.png" width="100" title="google ads logo" alt="google ads logo">
+</p>
+
+### Performance Max Campaigns (PMAX)
+
+1. [Asset group](https://support.google.com/google-ads/answer/10724492)
+  > Specifications of assets needed for a PMAX campaign..
+   
+
 ---
 ## Meta Ads
 
