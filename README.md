@@ -1,4 +1,4 @@
-# Web Analytics Handbook.
+# Web Analytics Handbook
  This is an ongoing project for documentation about web analytics tools and references. 
  The final objective is to have a quick references repository for general to specific consults.
 
@@ -35,6 +35,9 @@
  > ![sampling](info/images/ga4/sampling.png)
  >
  > An example of a report with sampling, note that in GA4 paid account you can choose to have unsampled data.
+
+2. [Default channel group](https://support.google.com/analytics/answer/9756891)
+ > Rules for grouping traffic in defaults channels.
 
 ### E-commerce
 
